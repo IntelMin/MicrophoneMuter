@@ -1,0 +1,11 @@
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\bin\Debug\CoreAudioApi.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\bin\Debug\CoreAudioApi.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.pdb
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\bin\Debug\CoreAudioApi.dll
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\bin\Debug\CoreAudioApi.pdb
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.csprojAssemblyReference.cache
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.csproj.CoreCompileInputs.cache
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.dll
+E:\work\c#\WindowsMicrophoneMute\CoreAudioAPI\obj\Debug\CoreAudioApi.pdb

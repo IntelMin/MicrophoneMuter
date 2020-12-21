@@ -1,0 +1,11 @@
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\MixerNativeLibrary\bin\Debug\MixerNativeLibrary.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\MixerNativeLibrary\bin\Debug\MixerNativeLibrary.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.pdb
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\bin\Debug\MixerNativeLibrary.dll
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\bin\Debug\MixerNativeLibrary.pdb
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.csprojAssemblyReference.cache
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.csproj.CoreCompileInputs.cache
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.dll
+E:\work\c#\WindowsMicrophoneMute\MixerNativeLibrary\obj\Debug\MixerNativeLibrary.pdb

@@ -1,0 +1,5 @@
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\bin\Release\CoreAudioApi.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\bin\Release\CoreAudioApi.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Release\CoreAudioApi.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\CoreAudioAPI\obj\Release\CoreAudioApi.pdb

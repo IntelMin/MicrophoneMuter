@@ -1,0 +1,9 @@
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\WindowsMicrophoneMuteLibrary.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\WindowsMicrophoneMuteLibrary.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\CoreAudioApi.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\MixerNativeLibrary.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\MixerNativeLibrary.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\bin\Release\CoreAudioApi.pdb
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\obj\Release\WindowsMicrophoneMuteLibrary.dll
+C:\Users\matt.CONVERSIVE\Desktop\WindowsMicrophoneMute\WindowsMicrophoneMuteLibrary\obj\Release\WindowsMicrophoneMuteLibrary.pdb

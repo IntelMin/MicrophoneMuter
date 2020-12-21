@@ -1,0 +1,17 @@
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\MicMuter.exe.config
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\MicMuter.exe
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\MicMuter.pdb
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\WindowsMicrophoneMuteLibrary.dll
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\CoreAudioApi.dll
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\MixerNativeLibrary.dll
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\WindowsMicrophoneMuteLibrary.pdb
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\CoreAudioApi.pdb
+E:\work\c#\WindowsMicrophoneMute\MicMuter\bin\Debug\MixerNativeLibrary.pdb
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.csprojAssemblyReference.cache
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.Form1.resources
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.Properties.Resources.resources
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.csproj.GenerateResource.cache
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.csproj.CoreCompileInputs.cache
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.csproj.CopyComplete
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.exe
+E:\work\c#\WindowsMicrophoneMute\MicMuter\obj\Debug\MicMuter.pdb
